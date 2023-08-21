@@ -3,6 +3,13 @@ html {
   background-color: rgb(208, 221, 232);
 }
 
+.banner {
+  background-color: yellow;
+  border-radius: 7px;
+  font-size: small;
+  text-align: center;
+}
+
 h1,
 p {
   text-align: center;
